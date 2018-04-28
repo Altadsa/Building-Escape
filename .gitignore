@@ -1,0 +1,15 @@
+###################
+#   Unreal Files  #
+###################
+
+*Binaries/
+*Build/
+*DerivedDataCache/
+*Intermediate/
+*Saved/
+Content/StarterContent/
+
+###################
+#  VS Files	  #
+###################
+*.VC.db
