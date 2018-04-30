@@ -12,4 +12,6 @@ Content/StarterContent/
 ###################
 #  VS Files	  #
 ###################
-*.VC.db
+*.VC
+*.suo
+*.ipch
